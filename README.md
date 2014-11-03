@@ -18,7 +18,7 @@ TDA PARA GENERACION DE ARCHIVOS JSON
 
 NOTA: Solo un tipo de dato a la vez.
 
-# EXAMPLE
+# EJEMPLO
 
 {
   "size": "0 bytes",
